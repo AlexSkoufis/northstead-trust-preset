@@ -1,0 +1,432 @@
+{
+  "team": [
+    {
+      "slug": "eleanor-voss",
+      "name": "Eleanor Voss",
+      "title": "President & CEO",
+      "group": "executive",
+      "phone": "000-000-0000",
+      "email": "evoss@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "As President & CEO, Eleanor leads strategy, shareholder relations and the client and employee experience at Northstead Trust. Before joining the firm she spent eighteen years at a regional bank, most recently as chief financial officer for a multi-state region."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2016 to present"
+            },
+            {
+              "label": "Regional bank, Chief Financial Officer, 2009 to 2016"
+            },
+            {
+              "label": "Regional bank, Treasury and Finance, 1998 to 2009"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "MBA, University of Wisconsin"
+            },
+            {
+              "label": "Bachelor of Business Administration, Marquette University"
+            }
+          ]
+        },
+        {
+          "heading": "Community",
+          "items": [
+            {
+              "label": "Lakeshore Arts Alliance: Board Member"
+            },
+            {
+              "label": "Junior Achievement: Advisory Council"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "james-whitcombe",
+      "name": "James Whitcombe, JD",
+      "title": "Senior Vice President, Director of Wealth Management",
+      "group": "executive",
+      "phone": "000-000-0001",
+      "email": "jwhitcombe@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "James leads the wealth management platform and the team of wealth advisors, and oversees fiduciary services for family and charitable trusts. He spent fifteen years building a trusts and estates practice at a regional law firm before joining Northstead."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2015 to present"
+            },
+            {
+              "label": "Regional law firm, Partner, Trusts and Estates, 2000 to 2015"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Juris Doctor, University of Minnesota Law School"
+            },
+            {
+              "label": "Bachelor of Arts, Carleton College"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "priya-natarajan",
+      "name": "Priya Natarajan, CPA",
+      "title": "Chief Financial Officer",
+      "group": "executive",
+      "phone": "000-000-0002",
+      "email": "pnatarajan@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Priya oversees finance, accounting, capital and regulatory reporting for the trust company. She joined Northstead after a decade in public accounting focused on financial institutions."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2018 to present"
+            },
+            {
+              "label": "Public accounting firm, Senior Manager, 2008 to 2018"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Master of Accountancy, University of Illinois"
+            },
+            {
+              "label": "Certified Public Accountant"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "thomas-reinholt",
+      "name": "Thomas Reinholt, CFA",
+      "title": "Chief Investment Officer",
+      "group": "executive",
+      "phone": "000-000-0003",
+      "email": "treinholt@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Thomas chairs the investment committee and sets the firm’s long-term asset allocation. He believes in owning high-quality businesses for a long time, keeping costs low and avoiding the temptation to time markets."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2012 to present"
+            },
+            {
+              "label": "Institutional asset manager, Portfolio Manager, 2001 to 2012"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Chartered Financial Analyst"
+            },
+            {
+              "label": "Bachelor of Science in Economics, University of Wisconsin"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "claire-ashdown",
+      "name": "Claire Ashdown, JD",
+      "title": "Senior Trust Officer",
+      "group": "counsel",
+      "phone": "000-000-0004",
+      "email": "cashdown@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Claire administers personal, special needs and charitable trusts, working closely with families and their attorneys. She practised estate planning law before moving to the trust side of the table."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2017 to present"
+            },
+            {
+              "label": "Estate planning attorney, 2009 to 2017"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Juris Doctor, Marquette University Law School"
+            },
+            {
+              "label": "Bachelor of Arts, Lawrence University"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "samuel-okoye",
+      "name": "Samuel Okoye",
+      "title": "Trust Officer",
+      "group": "counsel",
+      "phone": "000-000-0005",
+      "email": "sokoye@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Samuel supports trust administration for individual and family clients, from funding new trusts to coordinating distributions with beneficiaries."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2021 to present"
+            },
+            {
+              "label": "Community bank, Personal Trust Associate, 2017 to 2021"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Bachelor of Business Administration, University of Wisconsin"
+            },
+            {
+              "label": "Certified Trust and Fiduciary Advisor (in progress)"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "marcus-delaney",
+      "name": "Marcus Delaney, CFP®",
+      "title": "Senior Wealth Advisor",
+      "group": "advisory",
+      "phone": "000-000-0006",
+      "email": "mdelaney@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Marcus is the primary advisor for business owners, executives and multi-generational families, building wealth plans that cover retirement, tax, risk and wealth transfer in one place."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2014 to present"
+            },
+            {
+              "label": "National wealth management firm, Advisor, 2006 to 2014"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "CERTIFIED FINANCIAL PLANNER™ professional"
+            },
+            {
+              "label": "Bachelor of Science in Finance, Indiana University"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "hannah-lindqvist",
+      "name": "Hannah Lindqvist, CFP®",
+      "title": "Wealth Advisor",
+      "group": "advisory",
+      "phone": "000-000-0007",
+      "email": "hlindqvist@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Hannah works with families and retirees on financial planning, charitable giving and education funding, and leads the firm’s generational education programme for clients’ children and grandchildren."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2019 to present"
+            },
+            {
+              "label": "Independent planning firm, Associate Planner, 2015 to 2019"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "CERTIFIED FINANCIAL PLANNER™ professional"
+            },
+            {
+              "label": "Bachelor of Science in Personal Finance, University of Wisconsin"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "owen-castillo",
+      "name": "Owen Castillo, CFA",
+      "title": "Portfolio Manager",
+      "group": "advisory",
+      "phone": "000-000-0008",
+      "email": "ocastillo@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Owen manages client portfolios and leads research on fixed income and cash management, with a focus on tax efficiency for clients in high brackets."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2016 to present"
+            },
+            {
+              "label": "Bank trust department, Analyst, 2011 to 2016"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Chartered Financial Analyst"
+            },
+            {
+              "label": "Bachelor of Business Administration, University of Iowa"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    },
+    {
+      "slug": "rebecca-tran",
+      "name": "Rebecca Tran, CIMA®",
+      "title": "Investment Analyst",
+      "group": "advisory",
+      "phone": "000-000-0009",
+      "email": "rtran@northstead.example",
+      "linkedin": "#",
+      "intro": [
+        "Rebecca supports the investment committee with research on equity holdings and manager due diligence, and produces the weekly market summary."
+      ],
+      "sections": [
+        {
+          "heading": "Experience",
+          "items": [
+            {
+              "label": "Northstead Trust, 2026 to present"
+            },
+            {
+              "label": "Investment consulting firm, Analyst, 2020 to 2026"
+            }
+          ]
+        },
+        {
+          "heading": "Education",
+          "items": [
+            {
+              "label": "Certified Investment Management Analyst"
+            },
+            {
+              "label": "Bachelor of Science in Finance, Marquette University"
+            }
+          ]
+        }
+      ],
+      "source": "#"
+    }
+  ],
+  "board": [
+    {
+      "slug": "margaret-hale",
+      "name": "Margaret Hale",
+      "role": "Chair",
+      "org": "Hale Family Foundation"
+    },
+    {
+      "slug": "eleanor-voss",
+      "name": "Eleanor Voss",
+      "role": "President & CEO",
+      "org": "Northstead Trust"
+    },
+    {
+      "slug": "robert-kingsley",
+      "name": "Robert Kingsley",
+      "role": "Retired Chairman",
+      "org": "Kingsley Manufacturing"
+    },
+    {
+      "slug": "anita-desai",
+      "name": "Anita Desai",
+      "role": "Partner",
+      "org": "Desai & Moore LLP"
+    },
+    {
+      "slug": "william-fenwick",
+      "name": "William Fenwick",
+      "role": "Founder",
+      "org": "Fenwick Capital Advisors"
+    },
+    {
+      "slug": "lauren-pike",
+      "name": "Lauren Pike",
+      "role": "Chief Executive Officer",
+      "org": "Lakeshore Health Partners"
+    },
+    {
+      "slug": "carlos-mendez",
+      "name": "Carlos Mendez",
+      "role": "President",
+      "org": "Mendez Construction Group"
+    }
+  ]
+}

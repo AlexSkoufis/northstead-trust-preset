@@ -1,0 +1,130 @@
+{
+  "articles": [
+    {
+      "slug": "when-the-money-arrives-all-at-once",
+      "title": "When the Money Arrives All at Once",
+      "date": "2026-09-02",
+      "category": "Perspectives",
+      "image": "when-the-money-arrives-all-at-once",
+      "excerpt": "An inheritance, a business sale or a stock grant that finally vests. Sudden wealth rarely looks like a lottery ticket, and the first few months matter more than most people expect.",
+      "source": "#",
+      "video": false,
+      "hero": "when-the-money-arrives-all-at-once"
+    },
+    {
+      "slug": "funding-your-trust",
+      "title": "Funding Your Trust",
+      "date": "2026-07-09",
+      "category": "Perspectives",
+      "image": "funding-your-trust",
+      "excerpt": "A revocable trust only works if assets are actually titled to it. What belongs inside, and what is better left out?",
+      "source": "#",
+      "video": false,
+      "hero": "funding-your-trust"
+    },
+    {
+      "slug": "the-estate-documents-that-matter-most",
+      "title": "Estate Planning Essentials: The Documents That Matter Most",
+      "date": "2026-05-13",
+      "category": "Perspectives",
+      "image": "the-estate-documents-that-matter-most",
+      "excerpt": "Not every document carries the same weight. Here is how we rank the essentials, and why the ones people skip are often the most important.",
+      "source": "#",
+      "video": false,
+      "hero": "the-estate-documents-that-matter-most"
+    },
+    {
+      "slug": "2026-market-and-economic-outlook",
+      "title": "2026 Market and Economic Outlook",
+      "date": "2026-01-15",
+      "category": "Investment Insights",
+      "image": "2026-market-and-economic-outlook",
+      "excerpt": "Slower growth, steadier inflation and higher starting yields. What our investment committee expects for the year ahead, and how portfolios are positioned.",
+      "source": "#",
+      "video": false,
+      "hero": "2026-market-and-economic-outlook"
+    },
+    {
+      "slug": "bonds-are-back",
+      "title": "Bonds Are Back: Rethinking Fixed Income and Cash",
+      "date": "2026-03-20",
+      "category": "Investment Insights",
+      "image": "bonds-are-back",
+      "excerpt": "For the first time in years, high-quality bonds pay a meaningful income. What that means for cash, for balanced portfolios and for taxes.",
+      "source": "#",
+      "video": false,
+      "hero": "bonds-are-back"
+    },
+    {
+      "slug": "donor-advised-funds-a-flexible-way-to-give",
+      "title": "Donor-Advised Funds: A Flexible Way to Give",
+      "date": "2026-04-08",
+      "category": "Perspectives",
+      "image": "donor-advised-funds-a-flexible-way-to-give",
+      "excerpt": "Give in a high-income year, decide on the charities later, and involve the next generation along the way.",
+      "source": "#",
+      "video": false,
+      "hero": "donor-advised-funds-a-flexible-way-to-give"
+    },
+    {
+      "slug": "northstead-welcomes-rebecca-tran",
+      "title": "Northstead Trust Welcomes Rebecca Tran",
+      "date": "2026-06-02",
+      "category": "News",
+      "image": "northstead-welcomes-rebecca-tran",
+      "excerpt": "Rebecca joins the investment team as an Investment Analyst, supporting research and the weekly market summary.",
+      "source": "#",
+      "video": false,
+      "hero": "northstead-welcomes-rebecca-tran"
+    },
+    {
+      "slug": "a-day-of-service-on-the-lakefront",
+      "title": "A Day of Service on the Lakefront",
+      "date": "2026-08-21",
+      "category": "In The Community",
+      "image": "a-day-of-service-on-the-lakefront",
+      "excerpt": "Our whole team spent a day restoring dune grass and clearing trails along the lakefront with a local conservation group.",
+      "source": "#",
+      "video": false,
+      "hero": "a-day-of-service-on-the-lakefront"
+    }
+  ],
+  "research": [
+    {
+      "title": "2026.10.06 Market Snapshot",
+      "date": "2026-10-07",
+      "category": "Market Snapshot",
+      "href": "#"
+    },
+    {
+      "title": "2026.10.02 Weekly Market Summary",
+      "date": "2026-10-05",
+      "category": "Weekly Market Summary",
+      "href": "#"
+    },
+    {
+      "title": "2026.09.29 Market Snapshot",
+      "date": "2026-09-30",
+      "category": "Market Snapshot",
+      "href": "#"
+    },
+    {
+      "title": "2026.09.25 Weekly Market Summary",
+      "date": "2026-09-28",
+      "category": "Weekly Market Summary",
+      "href": "#"
+    },
+    {
+      "title": "2026.09.18 Weekly Market Summary",
+      "date": "2026-09-21",
+      "category": "Weekly Market Summary",
+      "href": "#"
+    },
+    {
+      "title": "2026.09.15 Market Snapshot",
+      "date": "2026-09-16",
+      "category": "Market Snapshot",
+      "href": "#"
+    }
+  ]
+}

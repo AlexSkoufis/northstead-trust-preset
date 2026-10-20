@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#f4f1ec" />
+    <meta name="author" content="CoreConcepts Design" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preload" href="/fonts/instrument-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/manrope-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <title>Northstead Trust | Private Wealth and Trust Services</title>
+    <meta name="description" content="Northstead Trust is an independent trust company providing investment management, trustee services, wealth planning and family office services." />
+    <script>
+      // Intro elements start hidden only when JS runs and motion is allowed.
+      // The class is removed by the opening timeline, or by this failsafe.
+      (function () {
+        var d = document.documentElement;
+        d.classList.add('js');
+        if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          d.classList.add('intro-pending');
+          setTimeout(function () { d.classList.remove('intro-pending'); }, 3000);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <div style="padding:16px;font-family:system-ui,sans-serif;background:#f4f1ec;color:#1b1f1d">
+        This site needs JavaScript. Call 000.000.0000 or email hello@northstead.example.
+      </div>
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
